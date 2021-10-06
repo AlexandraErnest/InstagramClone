@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap]![InstagramCloneWalkthrough](https://user-images.githubusercontent.com/88745954/136151935-4e17cd15-fb99-4e98-870d-b8619d738eba.gif)
 
 ## Notes
 
